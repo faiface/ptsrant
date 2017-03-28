@@ -62,7 +62,7 @@ lepší ako ctený čitateľ.
 ### Player 0 is on turn.\nDice: 0.
 
 Toto je výstrižok z ukážkovej hry úplne nehrateľného terminálového človeče. Na kocke padla nula.
-Enough said. Not enought said. Player 0 is on turn. English 101.
+Enough said. Not enough said. Player 0 is on turn. English 101.
 
 ### Zmysel
 
