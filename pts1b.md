@@ -46,6 +46,7 @@ Táto veta je nadbytočná, celkom zjavne to vyplýva z toho zvyšku. Ktorý je 
 
 ### Spoločnými silami permutáciu p množiny S bez pevného bodu....
 
-Toto je odfláknutie práce vyučujúceho. Ak si máme sami vytvoriť takúto permutáciu, tak je úplne
-zrejmé, že skončíme v pároch. Ak to nie je problém, zadanie mohlo od začiatku hovoriť len o pároch
-študentov a odpustiť si permutáciu. Ak to nebol zámer, tak mala byť permutácia daná v zadaní úlohy.
+Odhliadnuc od toho, že tejto vete chýba prísudok, toto je odfláknutie práce vyučujúceho. Ak si máme
+sami vytvoriť takúto permutáciu, tak je úplne zrejmé, že skončíme v pároch. Ak to nie je problém,
+zadanie mohlo od začiatku hovoriť len o pároch študentov a odpustiť si permutáciu. Ak to nebol
+zámer, tak mala byť permutácia daná v zadaní úlohy.
