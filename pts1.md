@@ -1,9 +1,9 @@
 [Link na originálne zadanie.](http://www.dcs.fmph.uniba.sk/~lukotka/pts2017du1.htm)
 
 ```
-Program uchovĂˇva zoznam uÄŤastnĂ­kov a ich aktuĂˇlny stav bodov v sĂştaĹľi.
-Po spustenĂ­ si program od uĹľĂ­vateÄľa vypĂ˝ta heslo. Potom program ÄŤakĂˇ na prĂ­kazy od uĹľĂ­vateÄľa,
-ktorĂ© nĂˇsledne vykonĂˇ.
+Program uchovĂˇva zoznam uÄŤastnĂ­kov a ich aktuĂˇlny stav bodov v sĂştaĹľi. Po spustenĂ­ si program
+od uĹľĂ­vateÄľa vypĂ˝ta heslo. Potom program ÄŤakĂˇ na prĂ­kazy od uĹľĂ­vateÄľa, ktorĂ© nĂˇsledne
+vykonĂˇ.
 
 Zoznam prĂ­kazov:
 
@@ -14,10 +14,10 @@ points <name> <number>
 reduce <number>
   ZnĂ­Ĺľi poÄŤet bodov kaĹľdĂ©ho hrĂˇÄŤa o <number>%. VĂ˝sledok sa zaokrĂşhli na celĂ© ÄŤĂ­sla nadol.
 
-junior <name> 
+junior <name>
   OznaÄŤĂ­, Ĺľe hrĂˇÄŤ <name> je junior
 
-ranking 
+ranking
   VypĂ­Ĺˇe celĂ© poradie. HrĂˇÄŤov zoradĂ­me podÄľa poÄŤtu bodov.
 
 ranking junior
@@ -27,8 +27,8 @@ quit
   UkonÄŤĂ­ program.
 
 
-Ak uĹľĂ­vateÄľ zadĂˇ prĂ­kazy points, reduce, category, a quit systĂ©m si najprv vypĂ˝ta password
-a prĂ­kaz vykonĂˇ iba v prĂ­pade, Ĺľe password je sprĂˇvny. 
+Ak uĹľĂ­vateÄľ zadĂˇ prĂ­kazy points, reduce, category, a quit systĂ©m si najprv vypĂ˝ta password a
+prĂ­kaz vykonĂˇ iba v prĂ­pade, Ĺľe password je sprĂˇvny.
 ```
 
 ### Toto som zbadal na stránke. Nemyslím si, že to je problém len môjho prehliadača.

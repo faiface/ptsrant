@@ -1,11 +1,19 @@
 [Link na originálne zadanie.](http://www.dcs.fmph.uniba.sk/~lukotka/pts2017du1b.htm)
 
 ```
-Domácu úlohu odovzdajte ako dva GITovské repozitáre e-mailom na relatko@gmail.com. Do subjectu napiste PTS DU1b. Nezabudnite napisat svoje meno. Termín na odovzdanie úlohy je 24.3.2017 23:00
+Domácu úlohu odovzdajte ako dva GITovské repozitáre e-mailom na relatko@gmail.com. Do subjectu
+napiste PTS DU1b. Nezabudnite napisat svoje meno. Termín na odovzdanie úlohy je 24.3.2017 23:00
 
-Nech S je množina študentov, ktorý chcú odovzdať domácu úlohu. Spoločnými silami permutáciu p množiny S bez pevného bodu. Odporúčané, je aby cykly p neboli veľmi dlhé.
-Študent x z S pošle svoj GITovský repositár (alebo link naň) študentovi p(x). Študent p(x) vytvorí v repozitári novú branch s názvom "review". V nej dolpní A. Komentáre k zadaniu B. Komentáre k riešeniu DU1 a pošte repozitár naspäť študentovi x. Študent x zapracuje pripomienky B (pripomienky k zadaniu budeme ignorovať), prípadne pošle naspäť študentovi p(x) repozit=ar na pripomienkovanie. Tento postup sa opakuje, až kým sa x a p(x) nezhodnú na tom, že už je to OK (alebo na tom, že už na viac detajlov nie je čas) a x mergne úpravy vykonané úpravy v kóde z branchu "review" do branchu master a výsledok pošle štrudentovi p(x).
-Študent x zároveň robí reviewera pre študenta p^-1(x). Ako domácu úlohu odovzdá študent x okrem svojho repozitára aj repozitár študenta p^-1(x) (ktorý reviewoval). 
+Nech S je množina študentov, ktorý chcú odovzdať domácu úlohu. Spoločnými silami permutáciu p
+množiny S bez pevného bodu. Odporúčané, je aby cykly p neboli veľmi dlhé. Študent x z S pošle svoj
+GITovský repositár (alebo link naň) študentovi p(x). Študent p(x) vytvorí v repozitári novú branch s
+názvom "review". V nej dolpní A. Komentáre k zadaniu B. Komentáre k riešeniu DU1 a pošte repozitár
+naspäť študentovi x. Študent x zapracuje pripomienky B (pripomienky k zadaniu budeme ignorovať),
+prípadne pošle naspäť študentovi p(x) repozit=ar na pripomienkovanie. Tento postup sa opakuje, až
+kým sa x a p(x) nezhodnú na tom, že už je to OK (alebo na tom, že už na viac detajlov nie je čas) a
+x mergne úpravy vykonané úpravy v kóde z branchu "review" do branchu master a výsledok pošle
+štrudentovi p(x). Študent x zároveň robí reviewera pre študenta p^-1(x). Ako domácu úlohu odovzdá
+študent x okrem svojho repozitára aj repozitár študenta p^-1(x) (ktorý reviewoval).
 ```
 
 Toto zadanie už nemá problém s encodingom, to je plus.
